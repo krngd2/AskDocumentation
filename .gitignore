@@ -13,6 +13,7 @@ build/
 
 # Ignore IDE specific files
 .vscode/
+.venv/
 .idea/
 __pycache__/
 *.pyc
